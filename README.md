@@ -1,2 +1,2 @@
 # Database_UOG
-# This is CRSP_ibes MERGED DATABASE 
+# Singal of Forcast error from 1970-2023
