@@ -44,6 +44,11 @@ python Final_expirment_Code-Merging\ IBES-CRSP.py
 2.Data Cleaning and Analysis:
 
 The scripts are designed to clean the data by handling missing values, removing outliers, and standardizing formats. The final merged dataset will be saved in the project directory.
+# Result 
+![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/b6640ac8-d3c5-4426-88fc-863f6d8e0950)
+
+![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/c6079a0f-42e1-43a2-aaf1-acac395156fc)
+
 # Acknowledgments
 
 Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
