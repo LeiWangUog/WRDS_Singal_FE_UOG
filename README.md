@@ -4,17 +4,24 @@ This repository contains the Python code used for connecting to the WRDS databas
 The project is organized into the following folders and scripts:
 
 Final_expirment_Code-CRSP.py: Connects to the WRDS database and retrieves CRSP data.
+
 Final_expirment_Code-IBES.py: Connects to the WRDS database and retrieves IBES data.
+
 Final_expirment_Code-Linktable.py: Handles the linking of CRSP and IBES data using a link table.
+
 Final_expirment_Code-Merging IBES-CRSP.py: Merges the cleaned IBES and CRSP data to produce the final signal matrix.
+
 #Setup
 Install Library:
 pip install wrds
 pip install pandas
 pip install numpy
 Set up WRDS credentials: Ensure you have access to WRDS. Create a .env file in the root directory of the project with the following content:
+
 WRDS_USERNAME=your_wrds_username
+
 WRDS_PASSWORD=your_wrds_password
+
 # Usage
 1.Running the Scripts:
 CRSP Data Retrieval:
