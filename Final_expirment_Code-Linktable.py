@@ -3,7 +3,7 @@ import numpy as np
 import wrds 
 #linktable-IBES-CRSP-BETA
 # coonect WRDS 数据库
-db = wrds.Connection(wrds_username='wanglei19970922', wrds_password='Wanglei19970922@')
+db = wrds.Connection(wrds_username='yourusername', wrds_password='youruserpassword@')
 # SQL
 query = f"""
     SELECT permno,ticker,ncusip,sdate, edate, score
