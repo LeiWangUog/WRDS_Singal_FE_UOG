@@ -24,15 +24,19 @@ WRDS_PASSWORD=your_wrds_password
 
 # Usage
 1.Running the Scripts:
+
 CRSP Data Retrieval:
 
 python Final_expirment_Code-CRSP.py
+
 IBES Data Retrieval:
 
 python Final_expirment_Code-IBES.py
+
 Linking Data:
 
 python Final_expirment_Code-Linktable.py
+
 Merging Data & Analyze signal:
 
 python Final_expirment_Code-Merging\ IBES-CRSP.py
