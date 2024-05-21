@@ -25,14 +25,20 @@ WRDS_PASSWORD=your_wrds_password
 # Usage
 1.Running the Scripts:
 CRSP Data Retrieval:
+
 python Final_expirment_Code-CRSP.py
 IBES Data Retrieval:
+
 python Final_expirment_Code-IBES.py
 Linking Data:
+
 python Final_expirment_Code-Linktable.py
-Merging Data & Analyze singal:
+Merging Data & Analyze signal:
+
 python Final_expirment_Code-Merging\ IBES-CRSP.py
 2.Data Cleaning and Analysis:
+
 The scripts are designed to clean the data by handling missing values, removing outliers, and standardizing formats. The final merged dataset will be saved in the project directory.
 # Acknowledgments
+
 Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
