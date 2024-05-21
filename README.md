@@ -7,3 +7,25 @@ Final_expirment_Code-CRSP.py: Connects to the WRDS database and retrieves CRSP d
 Final_expirment_Code-IBES.py: Connects to the WRDS database and retrieves IBES data.
 Final_expirment_Code-Linktable.py: Handles the linking of CRSP and IBES data using a link table.
 Final_expirment_Code-Merging IBES-CRSP.py: Merges the cleaned IBES and CRSP data to produce the final signal matrix.
+#Setup
+Install Library:
+pip install wrds
+pip install pandas
+pip install numpy
+Set up WRDS credentials: Ensure you have access to WRDS. Create a .env file in the root directory of the project with the following content:
+WRDS_USERNAME=your_wrds_username
+WRDS_PASSWORD=your_wrds_password
+# Usage
+1.Running the Scripts:
+CRSP Data Retrieval:
+python Final_expirment_Code-CRSP.py
+IBES Data Retrieval:
+python Final_expirment_Code-IBES.py
+Linking Data:
+python Final_expirment_Code-Linktable.py
+Merging Data & Analyze singal:
+python Final_expirment_Code-Merging\ IBES-CRSP.py
+2.Data Cleaning and Analysis:
+The scripts are designed to clean the data by handling missing values, removing outliers, and standardizing formats. The final merged dataset will be saved in the project directory.
+# Acknowledgments
+Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
