@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # 连接 WRDS 数据库（请确保 `.pgpass` 文件中或环境变量中已有凭证）
-db = wrds.Connection(wrds_username='wanglei19970922', wrds_password='Wanglei19970922@')
+db = wrds.Connection(wrds_username='yourname', wrds_password='yourpassword@')
 
 # 设置查询的起始和结束日期
 start_date = '1970-06-01'
