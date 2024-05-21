@@ -36,6 +36,7 @@ python Final_expirment_Code-Linktable.py
 Merging Data & Analyze signal:
 
 python Final_expirment_Code-Merging\ IBES-CRSP.py
+
 2.Data Cleaning and Analysis:
 
 The scripts are designed to clean the data by handling missing values, removing outliers, and standardizing formats. The final merged dataset will be saved in the project directory.
