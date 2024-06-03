@@ -51,6 +51,8 @@ The scripts are designed to clean the data by handling missing values, removing 
 
 # Portfilio Performance
 - [res_10percentile_FE4_equalweight_adjFE(+).fig](res_10percentile_FE4_equalweight_adjFE(+).fig) - MATLAB Fig
+- ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/f83e2e63-5319-4c10-b03d-d037e80655f5)
+
 # Acknowledgments
 
 Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
