@@ -56,3 +56,8 @@ The scripts are designed to clean the data by handling missing values, removing 
 # Acknowledgments
 
 Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
+
+# Reference
+
+http://assayinganomalies.com.
+Authors: Mihail Velikov velikov@psu.edu & Robert Novy-Marx robert.novy-marx@simon.rochester.edu.
