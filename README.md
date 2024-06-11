@@ -50,8 +50,15 @@ The scripts are designed to clean the data by handling missing values, removing 
 ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/c6079a0f-42e1-43a2-aaf1-acac395156fc)
 
 # Portfilio Performance
+-  Adjust Forecasts Error Portfilio Performance
 - [res_10percentile_FE4_equalweight_adjFE(+).fig](res_10percentile_FE4_equalweight_adjFE(+).fig) - MATLAB Fig
 - ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/f83e2e63-5319-4c10-b03d-d037e80655f5)
+
+-  Scaled-disagreement Portfolio Performance
+- ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/f70326b8-9a80-4a0d-9ba3-a3de217b9eb9)
+- ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/dc3f8879-515d-4954-b530-d9c7fba11893)
+
+
 
 # Acknowledgments
 
