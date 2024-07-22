@@ -54,13 +54,13 @@ The scripts are designed to clean the data by handling missing values, removing 
 -  ![Res-FF6-AFE-Cumlative-Return](https://github.com/user-attachments/assets/8ae80f21-4de0-4bbe-856f-a77017576e74)
 -  ![5yrsSharpRatio](https://github.com/user-attachments/assets/62a1be97-29fc-487e-8bff-1ce57826bf22)
 
-
 -  Scaled-disagreement Portfolio Performance
-- ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/f70326b8-9a80-4a0d-9ba3-a3de217b9eb9)
-- ![image](https://github.com/LeiWangUog/WRDS_Singal_FE_UOG/assets/158491057/dc3f8879-515d-4954-b530-d9c7fba11893)
 
+![Res-FF6-SDS-Cumlative-Return](https://github.com/user-attachments/assets/d2e80555-b6c7-49fc-bd08-dcaa87afca50)
 
-
+![SDS-EW156VW156-5yrSharpRatio](https://github.com/user-attachments/assets/85b21ddc-ad00-4e10-90a6-7ad870a1c1b2)
+-  VDS Portfolio Performance
+  
 # Acknowledgments
 
 Special thanks to Dr. Miguel Colburn Herculano for his guidance and support in this project.
