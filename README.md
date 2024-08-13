@@ -60,6 +60,12 @@ The scripts are designed to clean the data by handling missing values, removing 
 
 ![SDS-EW156VW156-5yrSharpRatio](https://github.com/user-attachments/assets/85b21ddc-ad00-4e10-90a6-7ad870a1c1b2)
 -  VDS Portfolio Performance
+  ![image](https://github.com/user-attachments/assets/f4edacce-27fc-491a-918f-6ab6a3a343f1)
+![image](https://github.com/user-attachments/assets/e9d79294-4c74-49ab-a625-a7a4b6cbbb92)
+-  Portfolio market cap
+![image](https://github.com/user-attachments/assets/f17eb0d4-044b-46b7-9774-e3c40c5fe731)
+![image](https://github.com/user-attachments/assets/17b3fa34-b841-4fd2-836b-e572aaf5b662)
+
   
 # Acknowledgments
 
